@@ -1,0 +1,7 @@
+name: Custom Migrations for ACE
+description: 'A set of custom migration processes'
+package: Custom
+
+type: module
+core: 8.x
+core_version_requirement: ^8 || ^9
