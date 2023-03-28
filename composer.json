@@ -1,0 +1,11 @@
+{
+    "name": "lomaxarchive/custom_migration",
+    "description": "",
+    "homepage": "https://github.com/lomaxarchive/custom_migration",
+    "type": "drupal-module",
+    "license": "GPL-2.0-or-later",
+    "require": {
+    },
+    "require-dev": {
+    }
+}
